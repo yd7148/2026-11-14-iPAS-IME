@@ -1,0 +1,68 @@
+{
+  "pass": true,
+  "files": [
+    {
+      "file": "00-首頁.md",
+      "exists": true,
+      "wikilinks": 10,
+      "broken_links": [],
+      "mermaid_blocks": 1,
+      "code_fences_balanced": true,
+      "display_math_balanced": true
+    },
+    {
+      "file": "04-科目筆記\\L21-生產與作業管理\\00-L21-MOC.md",
+      "exists": true,
+      "wikilinks": 3,
+      "broken_links": [],
+      "mermaid_blocks": 1,
+      "code_fences_balanced": true,
+      "display_math_balanced": true
+    },
+    {
+      "file": "04-科目筆記\\L22-設備與製程管理\\00-L22-MOC.md",
+      "exists": true,
+      "wikilinks": 3,
+      "broken_links": [],
+      "mermaid_blocks": 1,
+      "code_fences_balanced": true,
+      "display_math_balanced": true
+    },
+    {
+      "file": "04-科目筆記\\共通知識\\智慧工廠系統架構.md",
+      "exists": true,
+      "wikilinks": 0,
+      "broken_links": [],
+      "mermaid_blocks": 1,
+      "code_fences_balanced": true,
+      "display_math_balanced": true
+    },
+    {
+      "file": "05-公式與圖解\\公式總表.md",
+      "exists": true,
+      "wikilinks": 0,
+      "broken_links": [],
+      "mermaid_blocks": 0,
+      "code_fences_balanced": true,
+      "display_math_balanced": true
+    },
+    {
+      "file": "05-公式與圖解\\易混淆比較表.md",
+      "exists": true,
+      "wikilinks": 0,
+      "broken_links": [],
+      "mermaid_blocks": 1,
+      "code_fences_balanced": true,
+      "display_math_balanced": true
+    },
+    {
+      "file": "05-公式與圖解\\Mermaid-考綱知識圖.md",
+      "exists": true,
+      "wikilinks": 0,
+      "broken_links": [],
+      "mermaid_blocks": 1,
+      "code_fences_balanced": true,
+      "display_math_balanced": true
+    }
+  ]
+}

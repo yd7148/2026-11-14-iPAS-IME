@@ -1,0 +1,42 @@
+[
+  {
+    "file": "115-01-初級智慧生產_L11_生產與作業管理基礎_公告試題_20260608113807.pdf",
+    "url": "https://www.ipas.org.tw/api/proxy/uploads/certification_resource/4ee7f4184b654a3495f586fc869054fd/115-01-%E5%88%9D%E7%B4%9A%E6%99%BA%E6%85%A7%E7%94%9F%E7%94%A2_L11_%E7%94%9F%E7%94%A2%E8%88%87%E4%BD%9C%E6%A5%AD%E7%AE%A1%E7%90%86%E5%9F%BA%E7%A4%8E_%E5%85%AC%E5%91%8A%E8%A9%A6%E9%A1%8C_20260608113807.pdf",
+    "content_type": "application/pdf",
+    "remote_bytes": 414461,
+    "local_bytes": 414461,
+    "remote_sha256": "b89a737c31245de4cec15fea2cc974992f1ecc538b1c7621b5cf8ba1cd8509b4",
+    "local_sha256": "b89a737c31245de4cec15fea2cc974992f1ecc538b1c7621b5cf8ba1cd8509b4",
+    "match": true
+  },
+  {
+    "file": "115-01-初級智慧生產_L12_智慧製造生產線管理基礎_公告試題_20260608113824.pdf",
+    "url": "https://www.ipas.org.tw/api/proxy/uploads/certification_resource/4ee7f4184b654a3495f586fc869054fd/115-01-%E5%88%9D%E7%B4%9A%E6%99%BA%E6%85%A7%E7%94%9F%E7%94%A2_L12_%E6%99%BA%E6%85%A7%E8%A3%BD%E9%80%A0%E7%94%9F%E7%94%A2%E7%B7%9A%E7%AE%A1%E7%90%86%E5%9F%BA%E7%A4%8E_%E5%85%AC%E5%91%8A%E8%A9%A6%E9%A1%8C_20260608113824.pdf",
+    "content_type": "application/pdf",
+    "remote_bytes": 417117,
+    "local_bytes": 417117,
+    "remote_sha256": "4e83ec175c7694e67190d81ae9c773152a3c9e87b4b3d473734ab0b52c5f673a",
+    "local_sha256": "4e83ec175c7694e67190d81ae9c773152a3c9e87b4b3d473734ab0b52c5f673a",
+    "match": true
+  },
+  {
+    "file": "115年第一次中級智慧生產_第一科_智慧製造生產與作業管理之實務應用_公告試題_20260729142554.pdf",
+    "url": "https://www.ipas.org.tw/api/proxy/uploads/certification_resource/4ee7f4184b654a3495f586fc869054fd/115%E5%B9%B4%E7%AC%AC%E4%B8%80%E6%AC%A1%E4%B8%AD%E7%B4%9A%E6%99%BA%E6%85%A7%E7%94%9F%E7%94%A2_%E7%AC%AC%E4%B8%80%E7%A7%91_%E6%99%BA%E6%85%A7%E8%A3%BD%E9%80%A0%E7%94%9F%E7%94%A2%E8%88%87%E4%BD%9C%E6%A5%AD%E7%AE%A1%E7%90%86%E4%B9%8B%E5%AF%A6%E5%8B%99%E6%87%89%E7%94%A8_%E5%85%AC%E5%91%8A%E8%A9%A6%E9%A1%8C_20260729142554.pdf",
+    "content_type": "application/pdf",
+    "remote_bytes": 443422,
+    "local_bytes": 443422,
+    "remote_sha256": "6cd934d2920951691f7497003764cf7133e8f53cc830b04aef45084f792e62c2",
+    "local_sha256": "6cd934d2920951691f7497003764cf7133e8f53cc830b04aef45084f792e62c2",
+    "match": true
+  },
+  {
+    "file": "115年第一次中級智慧生產_第二科_智慧製造之設備與製程管理之實務應用_公告試題_20260422152024.pdf",
+    "url": "https://www.ipas.org.tw/api/proxy/uploads/certification_resource/4ee7f4184b654a3495f586fc869054fd/115%E5%B9%B4%E7%AC%AC%E4%B8%80%E6%AC%A1%E4%B8%AD%E7%B4%9A%E6%99%BA%E6%85%A7%E7%94%9F%E7%94%A2_%E7%AC%AC%E4%BA%8C%E7%A7%91_%E6%99%BA%E6%85%A7%E8%A3%BD%E9%80%A0%E4%B9%8B%E8%A8%AD%E5%82%99%E8%88%87%E8%A3%BD%E7%A8%8B%E7%AE%A1%E7%90%86%E4%B9%8B%E5%AF%A6%E5%8B%99%E6%87%89%E7%94%A8_%E5%85%AC%E5%91%8A%E8%A9%A6%E9%A1%8C_20260422152024.pdf",
+    "content_type": "application/pdf",
+    "remote_bytes": 389426,
+    "local_bytes": 389426,
+    "remote_sha256": "44d2f5a27a0ec9e5c8c592a130651d87a4c18d028bc9cc04c2dd484ba1d628ea",
+    "local_sha256": "44d2f5a27a0ec9e5c8c592a130651d87a4c18d028bc9cc04c2dd484ba1d628ea",
+    "match": true
+  }
+]

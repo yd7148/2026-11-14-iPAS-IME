@@ -1,0 +1,10 @@
+{
+  "mock_files": 2,
+  "all_50_questions": true,
+  "answer_rows": {
+    "L21": 50,
+    "L22": 50
+  },
+  "wrong_books": true,
+  "pass": true
+}

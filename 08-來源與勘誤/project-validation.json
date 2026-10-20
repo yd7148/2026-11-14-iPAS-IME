@@ -1,0 +1,21 @@
+{
+  "cards": 100,
+  "reviewed_cards": 100,
+  "cards_with_solution": 100,
+  "stage_reports": {
+    "階段A-PDF稽核清冊.md": true,
+    "階段B-歷屆試題蒐集與驗證.md": true,
+    "階段C-結構化題庫驗證.md": true,
+    "階段D-逐題解析驗證.md": true,
+    "階段E-主題筆記與圖解驗證.md": true,
+    "階段F-備考系統驗證.md": true
+  },
+  "mock_questions": {
+    "L21": 50,
+    "L22": 50
+  },
+  "markdown_files": 133,
+  "unbalanced_code_fences": [],
+  "unbalanced_display_math": [],
+  "pass": true
+}
